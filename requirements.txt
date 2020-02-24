@@ -1,0 +1,12 @@
+matplotlib=='3.0.3'
+progressbar=='2.5'
+os
+threading
+multiprocessing
+requests=='2.22.0'
+urllib
+time
+re=='2.2.1'
+nltk=='3.4.5'
+json=='2.0.9'
+sys
